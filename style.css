@@ -1,0 +1,17 @@
+body {
+	background-color: #d0f5f1;
+}
+
+.client {
+	border: 2px solid seagreen;
+	width: 30%;
+	margin-left: 60%;
+}
+
+.list__block {
+	/*background-color: green;*/
+	border: 2px solid green;
+	list-style: none;
+	padding: auto;
+	margin-top: 20px;	
+}
